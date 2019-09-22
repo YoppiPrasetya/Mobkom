@@ -4,7 +4,7 @@ Belajar Mobile Computing
 Link Video Per Materi
 
 01.1: Android Studio and Hello World
-
+https://youtu.be/X4uevRg1mBk
 
 
 01.2 Part A: Your first interactive UI
@@ -24,7 +24,7 @@ https://youtu.be/ofSjLSiX4fg
 
 
 02.1: Activities and intents
-
+https://youtu.be/LnvEzjgWgg0
 
 
 02.2: Activity lifecycle and state
