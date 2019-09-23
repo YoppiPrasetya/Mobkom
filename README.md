@@ -34,3 +34,7 @@ https://youtu.be/PwTZU-8dqYw
 02.3: Implicit intents
 https://youtu.be/bMOtK3zJbkk
 
+
+03.1: The debugger
+https://youtu.be/_dAp3YuSkZc
+
