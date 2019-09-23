@@ -30,3 +30,7 @@ https://youtu.be/LnvEzjgWgg0
 02.2: Activity lifecycle and state
 https://youtu.be/PwTZU-8dqYw
 
+
+02.3: Implicit intents
+https://youtu.be/bMOtK3zJbkk
+
