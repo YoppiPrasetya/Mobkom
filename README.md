@@ -38,3 +38,13 @@ https://youtu.be/bMOtK3zJbkk
 03.1: The debugger
 https://youtu.be/_dAp3YuSkZc
 
+
+03.2: Unit Tests
+https://youtu.be/TVjWb5V12Os
+
+
+03.3: Support libraries
+https://youtu.be/gtQn48xbLbk
+
+
+
