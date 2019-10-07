@@ -3,6 +3,7 @@ Belajar Mobile Computing
 ------------------------
 
 notes:
+
 Untuk nama project yang diakhiri _2 contoh HelloToast_2 diubah terdahulu menjadi HelloToast jika ingin dijalankan di Android Studio, karena itu adalah project yang sama yang dilanjutkan di codelab setelahnya.
 
 Link Video Per Materi
